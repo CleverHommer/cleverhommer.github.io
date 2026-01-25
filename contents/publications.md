@@ -1,16 +1,17 @@
-#### Submitted
+#### Selected Technical Reports & Research Projects
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- **H. Hu**, B. Liu. **AIRSEC: Multimodal Keystroke Inference via WiFi and Acoustic Side-Channels**. Undergraduate Research Program (URP), University of Science and Technology of China. (2025)
 
-#### Published
+- **H. Hu**. **Knowledge-Enhanced QA System in Legal Domain based on RAG and LangChain**. Technical Report, USTC Course Project. (2025)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **H. Hu**. **Movie Knowledge Graph Subgraph Extraction and Link Prediction System based on Freebase**. Technical Report, USTC Course Project. (2025)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **H. Hu**. **Image Generation System based on ResNet-CVAE**. Technical Report, USTC Course Project. (2024)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **H. Hu**. **Mathematical Proofs of Variational Lower Bound (ELBO) and KL Divergence in VAE**. Supplemental Research Notes. (2024)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+#### Honors & Competitions (Academic)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **H. Hu**. **National Second Prize**, The 16th Chinese Mathematics Competitions (CMC), Non-mathematics Category A. (2024)
 
+- **H. Hu**. **Second Prize**, USTC Robogame Robot Competition, Mechanical Group Lead. (2025)
