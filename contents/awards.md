@@ -1,13 +1,9 @@
+#### Scholarships & Academic Honors
 
-- Outstanding Graduate Award (CUMT), 2025.
+- **Outstanding Student Scholarship (Gold)**, University of Science and Technology of China (USTC), 2024.
+- **Outstanding Student Scholarship (Bronze)**, University of Science and Technology of China (USTC), 2024.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+#### Competitions & Awards
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
-
+- **National Second Prize**, The 16th Chinese Mathematics Competitions (CMC), Non-mathematics Category A, 2024.
+- **Second Prize**, USTC Robogame Robot Competition (Mechanical Group Lead), 2025.
