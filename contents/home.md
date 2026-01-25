@@ -9,7 +9,7 @@ I am a member of the **Wang Xiaomo Cyber Security Talent Class** (an elite honor
 
 ### Research Spotlight
 * **Multimodal Keystroke Inference via WiFi and Acoustic Side-Channels** Developed *AIRSEC*, a non-intrusive eavesdropping system. By fusing CSI signals from IEEE 802.11 protocols with acoustic pulses, we successfully reduced the search space of 6-digit PINs by over 99%.  
-    [[Read Technical Report (PDF)](./contents/research_project.pdf)]
+    [[Read Technical Report (PDF)](contents/research_project.pdf)]
 
 ---
 
@@ -22,7 +22,7 @@ I am a member of the **Wang Xiaomo Cyber Security Talent Class** (an elite honor
 
 ### Selected Projects
 * **Legal-RAG: Knowledge-Enhanced QA System** A full-stack RAG pipeline built with LangChain and FAISS, utilizing Chain-of-Thought (CoT) prompting to eliminate LLM hallucinations in legal consulting.  
-    [[Download Project PDF](./contents/rag_system.pdf)]
+    [[Download Project PDF](contents/rag_system.pdf)]
 
 * **Knowledge Graph Link Prediction** Implemented TransE/TransR models on Freebase subgraphs with a 1:16 negative sampling strategy, achieving 82.5% Hits@10.
 
