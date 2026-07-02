@@ -36,12 +36,14 @@ window.addEventListener('DOMContentLoaded', event => {
         .then(text => {
             const yml = jsyaml.load(text);
             Object.keys(yml).forEach(key => {
-                try {
-                    document.getElementById(key).innerHTML = yml[key];
-                } catch {
-                    console.log("Unknown id and value: " + key + "," + yml[key].toString())
+                if (key === 'title') {
+                    document.title = yml[key];
                 }
 
+                const element = document.getElementById(key);
+                if (element) {
+                    element.innerHTML = yml[key];
+                }
             })
         })
         .catch(error => console.log(error));
